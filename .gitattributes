@@ -1,0 +1,10 @@
+# Default
+*                   text=auto
+
+# Configuration
+.gitattributes      text 
+.gitignore          text
+
+# Documentation
+*.md                text diff=markdown
+*.png               binary
