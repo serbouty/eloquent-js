@@ -5,12 +5,10 @@
 </p>
 
 <p align="center">
-    <a href="">
-        <img src="https://img.shields.io/badge/javascript-es6-yellow?logo=javascript" alt="JavaScript" /></a>
     <a href="./LICENSE.md">
         <img src="https://img.shields.io/badge/license-mit-white?style=flat&logo=github"  alt="License MIT" /></a>
     <a href="">
-        <img src="https://img.shields.io/badge/status-active-darkgreen?style=flat&logo=github"  alt="Project Status Active" /></a>
+        <img src="https://img.shields.io/badge/status-active-darkgreen?style=flat&logo=github"  alt="Status Active" /></a>
 </p>
 
 ## Support
@@ -19,20 +17,27 @@
 
 ## Roadmap
 
-- [ ] Values, Types, and Operators
-- [ ] Program Structure
-- [ ] Functions
-- [ ] Data Structures: Objects and Arrays
-- [ ] Higher-order Functions
-- [ ] The Secret Life of Objects
-- [ ] Bugs and Errors
-- [ ] Regular Expressions
-- [ ] Modules
-- [ ] Asynchronous Programming
-- [ ] JavaScript and the Browser
-- [ ] The Document Object Model
-- [ ] Handling Events
-- [ ] HTTP and Forms
+- [ ] 1. Values, Types, and Operators
+- [ ] 2. Program Structure
+- [ ] 3. Functions
+- [ ] 4. Data Structures: Objects and Arrays
+- [ ] 5. Higher-order Functions
+- [ ] 6. The Secret Life of Objects
+- [ ] 7. Project: A Robot
+- [ ] 8. Bugs and Errors
+- [ ] 9. Regular Expressions
+- [ ] 10. Modules
+- [ ] 11. Asynchronous Programming
+- [ ] 12. Project: A Programming Language
+- [ ] 13. JavaScript and the Browser
+- [ ] 14. The Document Object Model
+- [ ] 15. Handling Events
+- [ ] 16. Project: A Platform Game
+- [ ] 17. Drawing on Canvas
+- [ ] 18. HTTP and Forms.
+- [ ] 19. Project: A Pixel Art Editor
+- [ ] 20. Node.js
+- [ ] 21. Project: Skill-Sharing Website
 
 ## License
 
